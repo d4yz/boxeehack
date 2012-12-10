@@ -1810,7 +1810,7 @@
 				<visible>true</visible>
 				<preloaditems>2</preloaditems>
 				<posx>281</posx>
-				<posy>72</posy>
+				<posy>105</posy>
 				<width>970</width>
 				<height>636</height>
 				<onleft>6020</onleft>
@@ -1930,7 +1930,7 @@
 						<posy>0</posy>
 						<width>966</width>
 						<height>110</height>
-						<texture srcborder="24" border="16">button-focused.png</texture>
+						<texture srcborder="24" border="16">../720p/resources/background/button-focused.png</texture>
 					</control>
 					<control type="image">
 						<visible>!IsEmpty(ListItem.Thumb)</visible>
